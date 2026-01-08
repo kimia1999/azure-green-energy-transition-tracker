@@ -1,5 +1,11 @@
 <div align="center"> <h1>🌸 Global Green Energy Transition Tracker</h1> <h3><span style="color:#ff4da6;">Azure Cloud End to End Data Engineering Pipeline</span></h3> <p> A cloud native, end to end data engineering project for tracking global renewable energy trends built to ingest, process, and visualize <strong>30,000+ power plants</strong> alongside <strong>100+ years</strong> of historical energy metrics. </p> </div>
+
+
+<img width="1152" height="641" alt="e3ea415b-1544-4458-b035-1c8907c78b66" src="https://github.com/user-attachments/assets/77a5c4b6-ddf3-4908-ac0c-b2b6de04e095" />
+
+
 🎀 Project Overview
+
 
 This project is a full E2E Azure pipeline that turns raw energy datasets into a clean analytics layer and an interactive Power BI dashboard.
 It follows a scalable design pattern and focuses on data quality, lineage, and fast BI reporting.
