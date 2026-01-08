@@ -5,6 +5,7 @@ This project is a full E2E Azure pipeline that turns raw energy datasets into a 
 It follows a scalable design pattern and focuses on data quality, lineage, and fast BI reporting.
 
 💗 Architecture (Medallion: Bronze → Silver → Gold)
+
 🍒 Bronze : Ingestion
 
 Azure Data Factory (ADF) orchestrates ingestion and moves raw data into Azure Data Lake Storage (ADLS) Gen2.
